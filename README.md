@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaidan Yazid Ilmani</h1>
-<h3 align="center">College student that's currently learning programming</h3>
+<h3 align="center">College student that's currently learn how to program</h3>
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZpeWUxN2o3ZG8yOGxwMTliano1ODFuY3gzb3g0NW1pZjcyMXpsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zB5na8URITKyvAGxdE/giphy.gif"  />
 </div>
