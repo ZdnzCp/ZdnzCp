@@ -12,11 +12,11 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zdnzcp&show_icons=true&theme=great-gatsby&hide_border=false" alt="MRamdhan's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=zdnzcp&show_icons=true&theme=great-gatsby&hide_border=false" alt="ZdnzCp GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdnzcp&theme=great-gatsby&hide_border=false" alt="MRamdhan's GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zdnzcp&theme=great-gatsby&hide_border=false" alt="ZdnzCp GitHub streak">
 </p>
 
 <p align="center">
